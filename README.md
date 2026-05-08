@@ -3,7 +3,7 @@
 # ⚡ Nestor Fernandez | Building cool things
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1000&q=80)" alt="Banner tecnológico Adrianfer4" width="100%" height="30px" />
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1000&q=80)" alt="Banner tecnológico Adrianfer4" width="100%" height="100px" />
 </div>
 
 </div>
