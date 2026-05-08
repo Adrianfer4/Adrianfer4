@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://i.imgur.com/MIY0fXT.png" alt="Banner tecnológico Adrianfer4" width="100%" />
+  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1000&q=80)" alt="Banner tecnológico Adrianfer4" width="100%" />
 </div>
 
 # ⚡ Nestor Fernandez | Building cool things
