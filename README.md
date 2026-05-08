@@ -1,16 +1,46 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Adrianfer4/Adrianfer4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ Adrianfer4 | Building cool things
 
-Here are some ideas to get you started:
+```bash
+> booting profile...
+> role: developer
+> mode: pro + hacker vibes
+> status: coding
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## 🧠 Sobre mí
+
+Soy **Adrián (Adrianfer4)**, desarrollador enfocado en crear soluciones limpias, rápidas y con buena experiencia de usuario.
+
+- 🚀 Me gusta convertir ideas en productos reales
+- 🔐 Fan de la automatización, seguridad y buenas prácticas
+- 🛠️ Siempre aprendiendo y subiendo de nivel
+
+## ⚙️ Tecnologías que uso
+
+<div align="left">
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=00ff9f)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=00ff9f)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=00ff9f)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=00ff9f)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=00ff9f)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=00ff9f)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=00ff9f)
+
+</div>
+
+## 🛰️ Contacto
+
+- 💼 GitHub: [@Adrianfer4](https://github.com/Adrianfer4)
+
+---
+
+<div align="center">
+
+`while(alive){ eat(); code(); sleep(); repeat(); }`
+
+</div>
