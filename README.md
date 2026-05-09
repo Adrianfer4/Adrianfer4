@@ -1,9 +1,6 @@
-<div align="center">
-# ⚡ Nestor Fernandez | Building cool things
+<h1 align="center">⚡ Nestor Fernandez | Building cool things</h1>
 <div align="center">
   <img src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=1000&q=80" alt="Banner tecnológico Adrianfer4" width="100%" height="150px" />
-</div>
-
 </div>
 
 ## 🧠 Sobre mí
@@ -31,6 +28,7 @@ Soy **Adrián (Adrianfer4)**, desarrollador enfocado en crear soluciones limpias
 ## 🛰️ Contacto
 
 - 💼 GitHub: [@Adrianfer4](https://github.com/Adrianfer4)
+- 🌐 Web: [www.nestorfernandez.me](https://www.nestorfernandez.me)
 
 ---
 
